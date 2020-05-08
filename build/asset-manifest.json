@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AndreaLabis/clicky-game.git/static/css/main.5ce12cf4.chunk.css",
+    "main.js": "/AndreaLabis/clicky-game.git/static/js/main.9329c800.chunk.js",
+    "main.js.map": "/AndreaLabis/clicky-game.git/static/js/main.9329c800.chunk.js.map",
+    "runtime-main.js": "/AndreaLabis/clicky-game.git/static/js/runtime-main.f745ef8a.js",
+    "runtime-main.js.map": "/AndreaLabis/clicky-game.git/static/js/runtime-main.f745ef8a.js.map",
+    "static/js/2.c897a142.chunk.js": "/AndreaLabis/clicky-game.git/static/js/2.c897a142.chunk.js",
+    "static/js/2.c897a142.chunk.js.map": "/AndreaLabis/clicky-game.git/static/js/2.c897a142.chunk.js.map",
+    "index.html": "/AndreaLabis/clicky-game.git/index.html",
+    "precache-manifest.fbca2066200b70efe0067a9be56194e6.js": "/AndreaLabis/clicky-game.git/precache-manifest.fbca2066200b70efe0067a9be56194e6.js",
+    "service-worker.js": "/AndreaLabis/clicky-game.git/service-worker.js",
+    "static/css/main.5ce12cf4.chunk.css.map": "/AndreaLabis/clicky-game.git/static/css/main.5ce12cf4.chunk.css.map",
+    "static/js/2.c897a142.chunk.js.LICENSE.txt": "/AndreaLabis/clicky-game.git/static/js/2.c897a142.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f745ef8a.js",
+    "static/js/2.c897a142.chunk.js",
+    "static/css/main.5ce12cf4.chunk.css",
+    "static/js/main.9329c800.chunk.js"
+  ]
+}
